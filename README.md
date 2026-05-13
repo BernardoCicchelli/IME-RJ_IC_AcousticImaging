@@ -134,7 +134,6 @@ Pico principal encontrado próximo à Caixa A com erro de ~10° em azimute.
 ## 🔮 Próximos Passos
 
 - Regravar as caixas separadamente para eliminar a correlação entre fontes
-- Implementar CLEAN-SC para ambiente reverberante
 - Sobrepor o heatmap na imagem fotográfica do ambiente
 
 ---
