@@ -140,6 +140,6 @@ Pico principal encontrado próximo à Caixa A com erro de ~10° em azimute.
 
 ## 👨‍🎓 Autores
 
-Bernardo Cicchelli e Patrick — Alunos de Iniciação Científica  
+Bernardo Cicchelli e Patrick Gouge — Alunos de Iniciação Científica  
 Orientador: Professor Apolinário  
 Instituto Militar de Engenharia (IME-RJ)
