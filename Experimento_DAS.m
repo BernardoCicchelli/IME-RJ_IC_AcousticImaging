@@ -107,8 +107,8 @@ xlabel('\phi (azimute em graus)')
 ylabel('\theta (zênite em graus)')
 title('DAS — Pseudoespectro (dB)')
 hold on
-plot(116.56, 11.86, 'w+', 'MarkerSize', 15, 'LineWidth', 2) % Caixa A
-plot(76.50,  6.27,  'wx', 'MarkerSize', 15, 'LineWidth', 2) % Caixa B
+plot(116.56, 77.60, 'w+', 'MarkerSize', 15, 'LineWidth', 2) % Caixa A
+plot(76.50,  83.22,  'wx', 'MarkerSize', 15, 'LineWidth', 2) % Caixa B
 legend('Caixa A esperada', 'Caixa B esperada')
 
 % Heatmap 3D
